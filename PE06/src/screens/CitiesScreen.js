@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   header: {
-    backgroundColor: '#2196F3', // Blue header
+    backgroundColor: '#2196F3',
     padding: 16,
   },
   headerText: {
