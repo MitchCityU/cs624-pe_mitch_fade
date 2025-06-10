@@ -11,7 +11,6 @@ const CountryDetailsScreen = () => {
   return (
     <View style={styles.container}>
       <CurrencyList currencies={currencies} />
-      {/* Add inputs and button below as needed */}
     </View>
   );
 };
